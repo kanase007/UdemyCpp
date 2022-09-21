@@ -6,7 +6,7 @@ int main()
     std::cout << "Please enter your number: ";
     std::cin >> number;
 
-    if (number >= 0 && number <= 10)
+    if (number >= 0 && number <= 14)
     {
         std::cout << "TRUE";
     }
